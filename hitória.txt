@@ -1,0 +1,5 @@
+Seja bem vindo a equipe QA-ntastic five!
+
+🔎 Por meio desse arquivo pretendemos apresentar cada integrante da Squad, com suas características,
+informações proficionais e algum fato que já aconteceu conosco nessa vida de QA.
+
