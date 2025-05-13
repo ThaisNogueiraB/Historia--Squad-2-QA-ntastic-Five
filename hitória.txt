@@ -1,0 +1,11 @@
+Eis que, dentre os nobres corações que compunham a ilustre irmandade QA-ntastic Five, avultava-se, com zelo inexcedível, o espírito investigativo e meticuloso de cada um de seus membros — cujas almas, amalgamadas pelo destino em comum, não apenas zelavam pela pureza dos sistemas, mas também perpetuavam um laço forjado em linhas de código e empatia profissional.
+
+Mas quiçá, gentil leitor, tu ora te inquiras: “De onde advém este nome tão curioso — QA-ntastic Five?” Ah! Escuta com atenção, pois aqui jaz sua origem, envolta em engenho e modéstia.
+
+Foi numa aurora tempestuosa de sprint inaugural, quando as pipelines mal funcionavam e os builds falhavam por capricho das dependências, que os cinco varões e donzelas da qualidade, cansados de nomes banais como “Equipe QA 02” ou “Testadores do Amanhã”, lançaram-se em solene parlamento. Foi Thais, de verbo arguto e mente aguçada, quem pronunciou:
+
+“Se cinco somos nós, e fantasticamente zelamos pela excelência, por que não chamarmo-nos os QA-ntastic Five?”
+
+E assim foi — entre risos contidos e aprovações unânimes, tal alcunha foi adotada, não com leviandade, mas com orgulho solene de quem reconhece o valor de sua missão. Pois não testavam meramente por obrigação, senão por vocação. Cada bug detectado era uma injustiça evitada; cada script automatizado, uma sinfonia de lógica pura.
+
+Naquele dia, não apenas nasceu um nome. Nasceu uma identidade.
