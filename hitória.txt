@@ -1,3 +1,21 @@
+Seja bem vindo a equipe QA-ntastic five!
+
+🔎 Por meio desse arquivo pretendemos apresentar cada integrante da Squad, com suas características, informações profissionais e algum fato que já aconteceu conosco nessa vida de QA.
+
+No coração de uma grande empresa de tecnologia, existia uma squad lendária conhecida como QA-ntastic-Five. Formada pelos talentosos Alicia, Brenda, Maria, Pedro e Thais, essa equipe tinha a missão de garantir a qualidade dos produtos que impactavam milhões de usuários.
+
+Eis que, dentre os nobres corações que compunham a ilustre irmandade QA-ntastic Five, avultava-se, com zelo inexcedível, o espírito investigativo e meticuloso de cada um de seus membros — cujas almas, amalgamadas pelo destino em comum, não apenas zelavam pela pureza dos sistemas, mas também perpetuavam um laço forjado em linhas de código e empatia profissional.
+
+Mas quiçá, gentil leitor, tu ora te inquiras: “De onde advém este nome tão curioso — QA-ntastic Five?” Ah! Escuta com atenção, pois aqui jaz sua origem, envolta em engenho e modéstia.
+
+Foi numa aurora tempestuosa de sprint inaugural, quando as pipelines mal funcionavam e os builds falhavam por capricho das dependências, que os cinco varões e donzelas da qualidade, cansados de nomes banais como “Equipe QA 02” ou “Testadores do Amanhã”, lançaram-se em solene parlamento. Foi Thais, de verbo arguto e mente aguçada, quem pronunciou:
+
+“Se cinco somos nós, e fantasticamente zelamos pela excelência, por que não chamarmo-nos os QA-ntastic Five?”
+
+E assim foi — entre risos contidos e aprovações unânimes, tal alcunha foi adotada, não com leviandade, mas com orgulho solene de quem reconhece o valor de sua missão. Pois não testavam meramente por obrigação, senão por vocação. Cada bug detectado era uma injustiça evitada; cada script automatizado, uma sinfonia de lógica pura.
+
+Naquele dia, não apenas nasceu um nome. Nasceu uma identidade.
+
 ✦ Sobre os Membros da Ilustríssima QA-ntastic Five ✦
 ☩ Pedro Afonso de Alencar Silva ☩
 Senhor de vasta erudição nas lides operacionais, o nobre Pedro Afonso de Alencar Silva representa, com inabalável firmeza, o esteio principal da venerável Squad. Outrora diligente Analista de Operações, distingue-se no trato com os clientes do ramo de crédito imobiliário, orquestrando, com rara perícia, a manutenção e a governança dos contratos que lhe são confiados. Sua excelsa competência desdobra-se ainda na confecção de relatórios gerenciais, na perspicaz análise de sistemas e na zelosa vigilância dos processos operacionais. Em todas as jornadas, sua mão firme e presença constante asseguram o cumprimento dos desígnios com eficácia imaculada, sendo sua atuação ornada pela cortesia e precisão, como convém a um cavalheiro de seu quilate.
