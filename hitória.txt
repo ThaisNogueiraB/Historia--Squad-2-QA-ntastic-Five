@@ -1,3 +1,33 @@
+Seja bem vindo a equipe QA-ntastic five!
+
+🔎 Por meio desse arquivo pretendemos apresentar cada integrante da Squad, com suas características, informações profissionais e algum fato que já aconteceu conosco nessa vida de QA.
+
+No coração de uma grande empresa de tecnologia, existia uma squad lendária conhecida como QA-ntastic-Five. Formada pelos talentosos Alicia, Brenda, Maria, Pedro e Thais, essa equipe tinha a missão de garantir a qualidade dos produtos que impactavam milhões de usuários.
+
+Eis que, dentre os nobres corações que compunham a ilustre irmandade QA-ntastic Five, avultava-se, com zelo inexcedível, o espírito investigativo e meticuloso de cada um de seus membros — cujas almas, amalgamadas pelo destino em comum, não apenas zelavam pela pureza dos sistemas, mas também perpetuavam um laço forjado em linhas de código e empatia profissional.
+
+Mas quiçá, gentil leitor, tu ora te inquiras: “De onde advém este nome tão curioso — QA-ntastic Five?” Ah! Escuta com atenção, pois aqui jaz sua origem, envolta em engenho e modéstia.
+
+Foi numa aurora tempestuosa de sprint inaugural, quando as pipelines mal funcionavam e os builds falhavam por capricho das dependências, que os cinco varões e donzelas da qualidade, cansados de nomes banais como “Equipe QA 02” ou “Testadores do Amanhã”, lançaram-se em solene parlamento. Foi Thais, de verbo arguto e mente aguçada, quem pronunciou:
+
+“Se cinco somos nós, e fantasticamente zelamos pela excelência, por que não chamarmo-nos os QA-ntastic Five?”
+
+E assim foi — entre risos contidos e aprovações unânimes, tal alcunha foi adotada, não com leviandade, mas com orgulho solene de quem reconhece o valor de sua missão. Pois não testavam meramente por obrigação, senão por vocação. Cada bug detectado era uma injustiça evitada; cada script automatizado, uma sinfonia de lógica pura.
+
+Naquele dia, não apenas nasceu um nome. Nasceu uma identidade.
+
+✦ Sobre os Membros da Ilustríssima QA-ntastic Five ✦
+☩ Pedro Afonso de Alencar Silva ☩
+Senhor de vasta erudição nas lides operacionais, o nobre Pedro Afonso de Alencar Silva representa, com inabalável firmeza, o esteio principal da venerável Squad. Outrora diligente Analista de Operações, distingue-se no trato com os clientes do ramo de crédito imobiliário, orquestrando, com rara perícia, a manutenção e a governança dos contratos que lhe são confiados. Sua excelsa competência desdobra-se ainda na confecção de relatórios gerenciais, na perspicaz análise de sistemas e na zelosa vigilância dos processos operacionais. Em todas as jornadas, sua mão firme e presença constante asseguram o cumprimento dos desígnios com eficácia imaculada, sendo sua atuação ornada pela cortesia e precisão, como convém a um cavalheiro de seu quilate.
+☩ Thais Nogueira Baldino ☩
+A gentil senhorita Thais, devotada estudante da arte moderna da Análise e Desenvolvimento de Sistemas, apresenta-se como espírito vibrante, cuja ânsia por saber não conhece repouso. Dotada de especial inclinação pelo desenho de interfaces e pelas ciências da computação, exibe fervorosa dedicação aos desígnios da inovação e da engenhosidade técnica. Sua alma curiosa e voltada para o bem comum confere-lhe notória capacidade de alinhar forma e função, em busca perene da excelência na experiência do usuário. É, pois, uma jovem de notório talento e tenacidade, cujo brilho há de fulgir ainda por muitas eras no firmamento da tecnologia.
+☩ Brenda Meira ☩
+Em auspicioso início de jornada pelas veredas da programação, deu-se a senhorita Brenda à luz do conhecimento no curso Dev The Devs, onde logo se revelou espírito destacado entre seus pares. Seu desempenho, tão notável quanto promissor, granjeou-lhe honrarias e convites de prestígio, como a representação do estado do Paraná em Porto Alegre e o ingresso ao faustoso conclave tecnológico South Summit. Cursando, no presente, a nobre Engenharia de Software e exercendo-se como estagiária na respeitável casa Compass.uol, Brenda permanece incansável em sua busca por saberes novos, desafios relevantes e realizações dignas de memória.
+☩ Alicia Kathleen de Paula Ferreira Inacio ☩
+Ornada de brilho singular no ofício do desenvolvimento, Alicia Kathleen — donzela de inteligência viva e pulso firme — dedica-se ao refinado labor de forjar interfaces que sejam, ao mesmo tempo, leves ao olhar e potentes na execução. No momento, aprofunda-se na seara do Desenvolvimento Fullstack, com ênfase nas frentes do Front-End, almejando, com denodo, a criação de soluções harmônicas, eficientes e, sobretudo, humanas. Seu espírito colaborativo, sua constante sede de aprendizado e sua disposição em acolher feedbacks compõem o retrato de uma profissional virtuosa, cuja contribuição não apenas eleva o time, mas enobrece os projetos aos quais se dedica com tanto ardor.
+☩ Maria Eduarda — "Duda" ☩
+Entre os membros desta nobre confraria, Maria Eduarda, gentilmente chamada Duda, cuja natureza é marcada pela organização, atenção meticulosa aos detalhes e espírito empático. De trato cortês e comunicação clara, conduz suas tarefas com apuro e serenidade. Sua alma é inquieta no saber, sempre em busca de aprimoramento constante, como quem entende que o verdadeiro ofício da qualidade exige estudo, sensibilidade e dedicação incessante.
+
 E assim, sob a insígnia da excelência e da colaboração, a lendária Squad QA-ntastic Five se ergue como exemplo de harmonia entre talento, dedicação e propósito. Cada membro, com sua virtude singular, entrelaça sua jornada à dos demais, formando não apenas um time, mas uma irmandade guiada pela busca incansável da qualidade e pela paixão por construir um mundo tecnológico mais justo, funcional e humano.
 
 Nos corredores digitais da grande empresa, seus feitos ecoam como lendas: entregas impecáveis, análises cirúrgicas, soluções engenhosas e, sobretudo, um espírito de parceria que transcende a rotina. Onde quer que haja um sistema a aprimorar, um código a refinar ou um usuário a encantar, lá estarão eles — vigilantes, incansáveis, formidáveis.
