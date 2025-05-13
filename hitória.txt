@@ -1,1 +1,12 @@
+
+Seja bem vindo a equipe QA-ntastic five!
+
+🔎 Por meio desse arquivo pretendemos apresentar cada integrante da Squad, com suas características,
+informações proficionais e algum fato que já aconteceu conosco nessa vida de QA.
+
 No coração de uma grande empresa de tecnologia, existia uma squad lendária conhecida como QA-ntastic-Five. Formada pelos talentosos Alicia, Brenda, Maria, Pedro e Thais, essa equipe tinha a missão de garantir a qualidade dos produtos que impactavam milhões de usuários.
+
+
+
+
+
